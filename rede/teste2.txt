@@ -1,0 +1,30 @@
+DisplayName                                                               DisplayVersion InstallDate
+-----------                                                               -------------- -----------
+                                                                                                    
+Certificado_TI                                                                                      
+Google Chrome                                                             56.0.2924.87   20160712   
+Google Update Helper                                                      1.3.32.7       20170201   
+Intelbras Icti Impacta Manager 3.02.23                                                   20160713   
+ISDB-T 1SEG TV Tuner Receiver                                             2010.4.14      20160924   
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17              9.0.30729      20160924   
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.30319               10.0.30319     20160713   
+Mozilla Firefox 48.0.2 (x86 pt-BR)                                        48.0.2                    
+Mozilla Maintenance Service                                               48.0.2.6079               
+PL-2303 Vista Driver Installer                                            3.0.1.0        20160712   
+Presto! PVR (Brazil 1 Seg)                                                7.12.06                   
+Programador WEB - Impacta 1.4.14                                          1.4.14         20160713   
+Programador WEB 2.0.06                                                    2.0.06         20161213   
+Programador WEB 2.0.14                                                    2.0.14         20160713   
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2604121) 1                         
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2656351) 1                         
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2729449) 1                         
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2737019) 1                         
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2742595) 1                         
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2789642) 1                         
+Update for Microsoft .NET Framework 4 Client Profile (KB2468871)          1                         
+Update for Microsoft .NET Framework 4 Client Profile (KB2533523)          1                         
+Update for Microsoft .NET Framework 4 Client Profile (KB2600217)          1                         
+USB Video/Audio Device Driver                                             1.00.0000      20160924   
+WinRAR 5.40 (32-bit)                                                      5.40.0                    
+
+

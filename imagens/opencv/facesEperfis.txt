@@ -1,0 +1,20 @@
+perfil01.png -> NÃO identificou nada
+perfil02.jpg -> identificou olhos e nariz
+perfil03.jpg -> NÃO identificou nada
+perfil04.jpg -> NÃO identificou nada
+perfil05.jpg -> NÃO identificou nada
+perfil06.jpg -> identificou área errada
+perfil07.jpg -> NÃO identificou nada
+perfil08.jpg -> NÃO identificou nada
+perfil09.jog -> IDENTIFICOU CORRETAMENTE
+
+face01.jpg -> NÃO identificou nada
+face02.jpg -> identificou área errada
+face03.png -> IDENTIFICOU CORRETAMENTE
+face04.jpg -> IDENTIFICOU CORRETAMENTE
+face05.png -> NÃO identificou nada
+face06.png -> identificou olhos e nariz
+face07.jpg -> identificou área errada
+face08.jpg -> NÃO identificou nada
+face09.jpg -> NÃO identificou nada
+face10.jpg -> NÃO identificou nada

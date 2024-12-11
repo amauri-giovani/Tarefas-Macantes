@@ -1,0 +1,30 @@
+No prompt: WMIC, depois: product get name, version
+Outras opções:
+Caption
+Description
+InstallDate
+InstallLocation
+Name
+PackageCache
+Version
+
+wmic /?			=> mostra todas as opções
+
+wmic diskdrive list /format					=> informações do HD
+ou
+wmic diskdrive list /format:hform > "NOME DO ARQUIVO".htm	=> abre no browser
+
+
+No prompt:
+Opção ordenada por nome:
+Get-ItemProperty HKLM:\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\* | Select-Object DisplayName, DisplayVersion, InstallDate | Sort-Object -Property DisplayName -Unique | Format-Table -AutoSize > c:\"CAMINHO"\programas_instalados.txt
+
+Get-ItemProperty HKLM:\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\* | Select-Object DisplayName, DisplayVersion | Sort-Object -Property DisplayName -Unique | Format-Table -AutoSize
+
+Get-ItemProperty HKLM:\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\* | Select-Object DisplayName, DisplayVersion, InstallDate | Sort-Object -Property DisplayName -Unique | Format-Table -AutoSize > "$env:userprofile\desktop\programas_instalados.txt"
+
+Get-ItemProperty HKLM:\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\* | Select-Object DisplayName, DisplayVersion, InstallDate | Format-Table –AutoSize
+
+
+Get-ItemProperty HKLM:\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\* | Select-Object DisplayName, DisplayVersion, Publisher, InstallDate | Format-Table –AutoSize
+

@@ -1,0 +1,171 @@
+Nome:
+
+Data:
+
+
+
+Quiz de estados e capitais (Prova 15)
+
+
+
+1. Qual é a capital de Rio Grande do Norte?
+     A. Natal
+     B. Fortaleza
+     C. Campo Grande
+     D. Recife
+
+2. Qual é a capital de Minas Gerais?
+     A. Belo Horizonte
+     B. Manaus
+     C. Aracaju
+     D. Maceió
+
+3. Qual é a capital de São Paulo?
+     A. São Paulo
+     B. Brasília
+     C. Campo Grande
+     D. Macapá
+
+4. Qual é a capital de Mato Grosso?
+     A. Cuiabá
+     B. Fortaleza
+     C. São Paulo
+     D. Maceió
+
+5. Qual é a capital de Goiás?
+     A. Rio Branco
+     B. Teresina
+     C. Fortaleza
+     D. Goiânia
+
+6. Qual é a capital de Amapá?
+     A. Florianópolis
+     B. Curitiba
+     C. Macapá
+     D. Rio Branco
+
+7. Qual é a capital de Amazonas?
+     A. Manaus
+     B. Palmas
+     C. Cuiabá
+     D. Belém
+
+8. Qual é a capital de Rio de Janeiro?
+     A. Boa Vista
+     B. Rio de Janeiro
+     C. Curitiba
+     D. Rio Branco
+
+9. Qual é a capital de Rondônia?
+     A. Campo Grande
+     B. Palmas
+     C. Porto Velho
+     D. Porto Alegre
+
+10. Qual é a capital de Santa Catarina?
+     A. Natal
+     B. Porto Velho
+     C. Teresina
+     D. Florianópolis
+
+11. Qual é a capital de Distrito Federal?
+     A. Vitória
+     B. Fortaleza
+     C. Cuiabá
+     D. Brasília
+
+12. Qual é a capital de Rio Grande do Sul?
+     A. Brasília
+     B. Porto Alegre
+     C. São Luís
+     D. Maceió
+
+13. Qual é a capital de Pará?
+     A. Palmas
+     B. São Luís
+     C. Porto Alegre
+     D. Belém
+
+14. Qual é a capital de Piauí?
+     A. Porto Alegre
+     B. Teresina
+     C. Palmas
+     D. Manaus
+
+15. Qual é a capital de Sergipe?
+     A. Campo Grande
+     B. Aracaju
+     C. Boa Vista
+     D. Curitiba
+
+16. Qual é a capital de Paraíba?
+     A. Brasília
+     B. Maceió
+     C. João Pessoa
+     D. Vitória
+
+17. Qual é a capital de Ceará?
+     A. Brasília
+     B. Porto Velho
+     C. Curitiba
+     D. Fortaleza
+
+18. Qual é a capital de Tocantins?
+     A. Rio de Janeiro
+     B. Palmas
+     C. Florianópolis
+     D. Belo Horizonte
+
+19. Qual é a capital de Alagoas?
+     A. Belém
+     B. Macapá
+     C. Maceió
+     D. Florianópolis
+
+20. Qual é a capital de Bahia?
+     A. Maceió
+     B. Boa Vista
+     C. Salvador
+     D. Manaus
+
+21. Qual é a capital de Mato Grosso do Sul?
+     A. Brasília
+     B. Rio Branco
+     C. Campo Grande
+     D. Rio de Janeiro
+
+22. Qual é a capital de Paraná?
+     A. Salvador
+     B. Curitiba
+     C. Palmas
+     D. São Luís
+
+23. Qual é a capital de Roraima?
+     A. Fortaleza
+     B. Palmas
+     C. Boa Vista
+     D. Macapá
+
+24. Qual é a capital de Pernambuco?
+     A. Campo Grande
+     B. Cuiabá
+     C. Recife
+     D. Vitória
+
+25. Qual é a capital de Espírito Santo?
+     A. Natal
+     B. Recife
+     C. Vitória
+     D. Curitiba
+
+26. Qual é a capital de Acre?
+     A. Rio Branco
+     B. Goiânia
+     C. Brasília
+     D. Porto Alegre
+
+27. Qual é a capital de Maranhão?
+     A. Teresina
+     B. Boa Vista
+     C. Campo Grande
+     D. São Luís

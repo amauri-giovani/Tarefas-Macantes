@@ -1,0 +1,7 @@
+Arquivo "spam.txt" de teste salvo na pasta "C:\spamPython".
+
+Abaixo existiram algumas linhas que servirão para utilizarmos
+com o programa "organizando.py" para manipular os arquivos.
+
+Esse arquivo de texto deverá ser colocado em uma pasta chamada:
+"C:\spamPython" com o nome "spam.txt".

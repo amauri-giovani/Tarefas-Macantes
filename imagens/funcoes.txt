@@ -1,0 +1,5 @@
+tostring(self, *args, **kw)
+fromstring(*args, **kw)
+register_mime(id, mimetype)
+
+ImageDraw -> getfont(self)

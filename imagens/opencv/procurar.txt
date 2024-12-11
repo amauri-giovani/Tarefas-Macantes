@@ -1,0 +1,5 @@
+procurar por:
+
+letter_recog.py
+caixa delimitadora
+limiarização de imagens
